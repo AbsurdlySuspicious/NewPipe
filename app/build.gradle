@@ -18,7 +18,7 @@ android {
         minSdkVersion 19
         targetSdkVersion 29
         versionCode 973001
-        versionName "0.21.7"
+        versionName "0.21.7-ne-3"
 
         multiDexEnabled true
 
